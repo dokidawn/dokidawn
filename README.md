@@ -1,6 +1,6 @@
 # Hi, I'm Zyrenne!
 
-*I'm an IT student who is just getting started in the world of technology and programming. I'm currently exploring different areas of development to find my path, and building projects along the way to grow my skills.*
+*I'm an IT student who is just getting started in the world of technology and programming.*
 
 ## About Me
 + 🎓 Studying Information Technology at Fullbright College
