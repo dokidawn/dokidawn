@@ -9,6 +9,7 @@
 ---
 
 ## Skills & Technologies
+
 **Languages:** 
 + C Language, Phyton 
 ---
