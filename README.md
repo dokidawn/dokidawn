@@ -9,7 +9,8 @@
 ---
 
 ## Skills & Technologies
-**Languages:** C Language, Phyton 
+**Languages:** 
++ C Language, Phyton 
 ---
 
 ## Projects
@@ -18,4 +19,4 @@
 
 ## Connect With Me
 - GitHub: [github.com/dokidawn]
-- Email: [zyrennelucero@gmail.com]
+- Email: [zyrenne@gmail.com]
