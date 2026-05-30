@@ -19,8 +19,7 @@
 
 <details>
 
-<summary><b>Skills & Technologies
-</b></summary>
+<summary><b></b></summary>
 
 <br>
 
@@ -29,22 +28,18 @@
 + Basic HTML
 
 </details>
----
 
 ## Projects
 
 <details>
 
-<summary><b>Projects</b></summary>
+<summary><b></b></summary>
 
 <br>
 
 + Queueing Sytem
 
 </details>
----
-
-
 
 ## Connect With Me
 - GitHub: [github.com/dokidawn]
