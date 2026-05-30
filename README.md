@@ -9,7 +9,6 @@
 
 ## Goals
 
-+ Become an 
 + Learn Cyber security 
 + Build cool projects 
 
@@ -22,7 +21,6 @@
 <summary><b></b></summary>
 
 <br>
-
 + C Language 
 + Phyton 
 + Basic HTML
@@ -36,7 +34,6 @@
 <summary><b></b></summary>
 
 <br>
-
 + Queueing Sytem
 
 </details>
