@@ -17,14 +17,31 @@
 
 ## Skills & Technologies
 
-+ C Language
-+ HTML
+<details>
+
+<summary><b>Skills & Technologies
+</b></summary>
+
+<br>
+
++ C Language 
 + Phyton 
++ Basic HTML
+
+</details>
 ---
 
 ## Projects
 
-+ Queueing System 
+<details>
+
+<summary><b>Projects</b></summary>
+
+<br>
+
++ Queueing Sytem
+
+</details>
 ---
 
 
